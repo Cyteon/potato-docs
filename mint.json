@@ -37,7 +37,7 @@
   "navigation": [
     {
       "group": "Bot Info",
-      "pages": ["introduction", "selfhost"]
+      "pages": ["introduction", "selfhost_v2", "selfhost_v3"]
     },
     {
       "group": "Guides (v3)",
