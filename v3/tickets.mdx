@@ -1,0 +1,14 @@
+---
+title: 'Tickets'
+description: 'The new ticket system'
+---
+
+As of v3 Potatobot is switching to a threads based system, opposed to the old system of making channels in a category.
+
+### Setup
+
+Run `/ticket logs <channel>` to set the ticket logs channel, this channel should be private to staff only as embeds will be send there, containing a button to join the ticket.
+
+Then run `/ticket channel <channel>` to set where the tickets will be created. This channel should be **PUBLIC**!!! If its private members cant see the channel, so they cant see their tickets (tickets will be private threads in this channel).
+
+Lastly, run `/ticketembed`, this will send an embed with an button to open a ticket, this cmd can be ran in the tickets channel or any other public channel. When you press the button a ticket thread will be made in the channel you set in the last step. And an embed containing a button to join the ticket will be sent to the logs channel.
