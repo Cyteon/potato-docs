@@ -45,7 +45,7 @@
     },
     {
       "group": "Guides (v2)",
-      "pages": ["guides/basics", "guides/antinuke"]
+      "pages": ["v2/basics", "v2/antinuke"]
     },
     {
       "group": "Resources",
