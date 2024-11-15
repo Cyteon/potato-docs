@@ -41,7 +41,7 @@
     },
     {
       "group": "Guides (v3)",
-      "pages": ["v3/tickets", "v3/music", "v3/giveaway"]
+      "pages": ["v3/tickets", "v3/music", "v3/giveaway", "v3/ai"]
     },
     {
       "group": "Guides (v2)",
